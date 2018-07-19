@@ -456,8 +456,8 @@ class ReactNativeModal extends Component {
                 backgroundColor: this.state.showContent
                   ? backdropColor
                   : "transparent",
-                width: deviceWidth,
-                height: deviceHeight
+                // width: deviceWidth,
+                // height: deviceHeight
               }
             ]}
           />
